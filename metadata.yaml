@@ -1,0 +1,32 @@
+_repo: A-Concise-Dictionary-of-Middle-EnglishFrom-A.D.-1150-to-1580_10625
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Skeat, Walter W. (Walter William)
+    alias: Skeat, Walter William
+    birthdate: 1835
+    deathdate: 1912
+    gutenberg_agent_id: '4590'
+    url: http://www.gutenberg.org/2009/agents/4590
+    wikipedia: http://en.wikipedia.org/wiki/Walter_William_Skeat
+  - agent_name: Mayhew, A. L. (Anthony Lawson)
+    alias: Mayhew, Anthony Lawson
+    birthdate: 1842
+    gutenberg_agent_id: '4591'
+    url: http://www.gutenberg.org/2009/agents/4591
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10625'
+  lccn: '12036745'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Middle English, 1100-1500 -- Dictionaries'
+- !lcc 'PE'
+- GITenberg
+title: A Concise Dictionary of Middle English from A.D. 1150 to 1580
+url: http://www.gutenberg.org/ebooks/10625
